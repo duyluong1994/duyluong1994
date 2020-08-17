@@ -19,5 +19,5 @@ Skills: C++ (EOSIO) / Node.js / NEXT.js / REACT / Angular / Solidity / TypeScrip
   <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Working with passion.
 
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=duyluong1994&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true)](https://github.com/duyluong1994/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=duyluong1994&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)](https://github.com/duyluong1994/github-readme-stats)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=duyluong1994&layout=compact)](https://github.com/duyluong1994/github-readme-stats)
