@@ -15,7 +15,7 @@ Skills: C++ (EOSIO) / Node.js / NEXT.js / REACT / Angular / Solidity / TypeScrip
 - 👯 I’m looking to collaborate on remote and freelancer job which using EOSIO.
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: DM me via Telegram 👆or Mail to duyluong1994@gmail.com
+- 📫 How to reach me: DM me via [![Telegram Badge](https://img.shields.io/badge/-Mr.D-0072b1?style=flat&logo=Telegram&logoColor=white&link=https://t.me/mr_eos94)](https://t.me/mr_eos94) or Mail to duyluong1994@gmail.com
   <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Working with passion.
 
