@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Duy aka Lupo Solitario VN
+### Hi there 👋, I'm Duy aka Lupo Solitario VN 👨🏻‍💻
 
 #### Software Developer
 
