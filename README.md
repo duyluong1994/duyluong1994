@@ -10,7 +10,14 @@ I’m a software developer for 4+ years and currently focuses on Blockchain deve
 
 Skills: C++ (EOSIO) / Node.js / NEXT.js / REACT / Angular / Solidity / TypeScripts
 
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently working on traxem.vn and helping some startup integrated blockchain technology into their platform.
+- 🌱 I’m currently learning more about Blockchain.
+- 👯 I’m looking to collaborate on remote and freelancer job which using EOSIO.
+  <!-- - 🤔 I’m looking for help with ... -->
+  <!-- - 💬 Ask me about ... -->
+  <!-- - 📫 How to reach me: ... -->
+  <!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: Working with passion.
 
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=duyluong1994&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true)](https://github.com/duyluong1994/github-readme-stats)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=duyluong1994&layout=compact)](https://github.com/duyluong1994/github-readme-stats)
