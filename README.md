@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Duy aka Lupo Solitario VN 👨🏻‍💻
 
-#### Software Developer
+#### Blockchain Developer (EOSIO)
 
 **Get in touch:**
 
