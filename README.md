@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Duy aka Lupo Solitario VN 👨🏻‍💻
 
-#### Blockchain Developer (EOSIO)
+#### Blockchain Developer (Antelope a.k.a EOSIO)
 
 **Get in touch:**
 
