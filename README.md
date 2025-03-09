@@ -11,8 +11,7 @@ I’m a software developer for 7+ years and currently focus on Blockchain develo
 Skills: C++ (Antelope) / Node.js / NEXT.js / REACT / Angular / Solidity / TypeScripts / Svelte Kit
 
 - 🔭 Working as freelancer for EOS, WAX network projects and helping some startup integrated blockchain technology into their platform.
-- 🤝 Currently a member of Beast Garden and Zombie Outbreak Survival teams: https://beastgarden.io/team/ and https://www.zos.world/team/all/
-- 👯 I’m looking to collaborate on remote and freelancer job which using Antelope.
+- 👯 I’m looking to collaborate on remote and freelancer job.
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
   <!-- - 😄 Pronouns: ... -->
