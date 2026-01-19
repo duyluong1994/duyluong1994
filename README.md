@@ -8,7 +8,7 @@
 
 I’ve worked as a full-stack developer since 2017. I did some projects like building Antelope sister chains, smart contracts, server, dapp web, web app and mobile app, off-chain services (api, cron jobs, discord/Twitter bots, syncing on-chain table to off-chain database, on-chain event sockets,...)
 
-Skills: C++ (Antelope) / Node.js / NEXT.js / REACT / Svelte / Solidity / TypeScripts / Python / Docker / K8s / Flutter
+Skills:  Node.js / REACT / Svelte / Python / Flutter / C++ (Antelope) /  NEXT.js / Solidity / TypeScripts  / Docker / K8s 
 
 My recent work experience is MagneticAI for an US company. This project includes:
 - A web app, https://www.magneticai.co, using React and deployed via Vercel. It allows women to register using AI-powered KYC verification, then rate men's photos and receive rewards via PayPal.
